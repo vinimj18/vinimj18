@@ -71,10 +71,6 @@ I’m passionate about structured testing, continuous learning, and helping deve
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinimj18&show_icons=true&theme=default&hide=issues&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimj18&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
