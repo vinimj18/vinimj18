@@ -80,3 +80,7 @@ I’m passionate about structured testing, continuous learning, and helping deve
   ✨ Always learning. Always testing. <br>
   <em>Thanks for stopping by!</em>
 </p>
+
+<!--
+Vinicius Maggiotto Justen | Junior QA Engineer | QA Automation | Cypress | Selenium | Python | JavaScript | API Testing | GitHub Actions | Robot Framework | Remote QA Jobs Europe | QA Engineer Lisbon | Open to work QA | Entry-Level QA Portfolio
+-->
