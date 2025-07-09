@@ -77,3 +77,10 @@ I’m passionate about structured testing, continuous learning, and helping deve
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinimj18&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
+
+---
+
+<p align="center">
+  ✨ Always learning. Always testing. <br>
+  <em>Thanks for stopping by!</em>
+</p>
