@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/vinimj18/vinimj18/blob/main/LinkedIn.png?raw=true" alt="Vinicius Maggiotto Justen – QA Engineer Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Vinicius Maggiotto Justen
 
 **Junior QA Engineer**  
