@@ -42,3 +42,27 @@ I’m passionate about structured testing, continuous learning, and helping deve
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 [E-commerce Website Testing – Selenium + Python](https://github.com/vinimj18/Selenium_e2e)
+- Developed an automated end-to-end test suite for login, product search, cart, and checkout.
+- Built with **Selenium WebDriver**, **PyTest**, and **data-driven testing techniques**.
+- Validated UI behavior and stability across user flows.
+
+---
+
+### 🧪 [API Testing – Cypress + JavaScript](https://github.com/vinimj18/API-Testing-With-Cypress)
+- Created a full API test suite for task management endpoints (CRUD operations).
+- Implemented **custom commands**, **fixtures**, and **token authentication**.
+- Designed to simulate real-world REST API scenarios using Cypress.
+
+---
+
+### 🔄 [CI/CD Integration – Cypress + GitHub Actions](https://github.com/vinimj18/cypress-actions)
+- Built a continuous testing pipeline using **GitHub Actions** triggered on every commit.
+- Integrated **end-to-end Cypress tests** to ensure frontend reliability.
+- Demonstrated practical CI/CD QA in action.
+
